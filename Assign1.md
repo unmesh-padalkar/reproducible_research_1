@@ -89,7 +89,7 @@ hist(totalStepsDay$steps, breaks=20, xlab="Number of Steps Taken",
      col=paletteBlue(22), family="serif")
 ```
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5-1.png) 
+![fig4](fig/fig4.png) 
 
 Finally, the summarise function can calculate the mean and median values of the total number of steps taken per day.
 
