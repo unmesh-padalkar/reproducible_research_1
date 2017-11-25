@@ -5,7 +5,7 @@ This is my submission for the Coursera assignment, for the Reproducible Research
 The files in this repo are:
 
 * The R Markdown document, containing the R code and written explanations, can be found in the file [Assign1.Rmd](Assign1.Rmd). The same document, in Markdown format, can be found at [Assign1.md](Assign1.md), and the HTML version at [Assign1.html](Assign1.html).
-* The [�figure�](figure) folder contains all of the graphs created in the markdown document.
+* The [�fig�](figure) folder contains all of the graphs created in the markdown document.
 * The dataset used within the assignment has the file name [�activity.zip�](activity.zip).
 * Image files for rendering the html version of the markdown file: [html_fig](html_fig).
 
